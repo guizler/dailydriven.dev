@@ -3,6 +3,7 @@ module.exports = {
     title: "dailydriven.dev",
   },
   plugins: [
+    "gatsby-plugin-postcss",
     "gatsby-plugin-image",
     "gatsby-plugin-mdx",
     "gatsby-plugin-sharp",
